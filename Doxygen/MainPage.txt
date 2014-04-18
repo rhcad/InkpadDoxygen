@@ -1,0 +1,12 @@
+/*! \mainpage Inkpad Document
+
+    \section secIntro Overview
+
+    [Inkpad](https://github.com/sprang/Inkpad) is a vector illustration app designed from scratch for the iPad. It supports paths, compound paths, text, images, groups, masks, gradient fills, and an unlimited number of layers.
+
+    Inkpad was designed with performance in mind – it can easily handle drawings with hundreds to thousands of shapes without bogging down. Export your finished illustrations directly to your Dropbox as SVG or PDF.
+
+    [Inkpad](https://github.com/sprang/Inkpad) is Free Open Source Software. It is distributed under the [Mozilla Public License v2.0](http://mozilla.org/MPL/2.0).
+
+    Please do not submit unmodified (or trivially modified) versions of this application to the App Store. The license grants both rights and responsibilities. If you choose to clone and submit this application to the App Store, you are required to make this source code (and any changes that you've made to it) publicly available. You must also make it clear that the source code is available and provide a link to it.
+*/
