@@ -2,7 +2,9 @@
 
 This project is used to generate [Inkpad](https://github.com/sprang/Inkpad) documentation with Doxygen.
 
-Author: [Zhang Yungui](https://github.com/rhcad). Contributors and sponsors are welcome.
+![dir](https://raw.githubusercontent.com/rhcad/InkpadDoxygen/master/screenshot/dir.png) ![path](https://raw.githubusercontent.com/rhcad/InkpadDoxygen/master/screenshot/path.png)
+
+This project is distributed under the [Mozilla Public License v2.0](http://mozilla.org/MPL/2.0/). Contributors and sponsors are welcome.
 
 ## Setup Doxygen and GraphViz
 
