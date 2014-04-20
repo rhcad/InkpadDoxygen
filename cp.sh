@@ -26,3 +26,7 @@ mv all.tmp/Inkpad/Classes/WDEmail* all.tmp/Inkpad/Model
 mv all.tmp/Inkpad/Classes/WDFont* all.tmp/Inkpad/Model
 mv all.tmp/Inkpad/Classes/WD*Font.* all.tmp/Inkpad/Model
 mv all.tmp/Inkpad/Classes/*.* all.tmp/Inkpad/View
+
+mv all.tmp/Inkpad/Inkpad-Core/Controllers/WDPropertyManager.h all.tmp/Inkpad/Inkpad-Core/Model
+mv all.tmp/Inkpad/Inkpad-Core/Utilities/WD*Utilities.h all.tmp/Inkpad/Inkpad-Core/Model
+mv all.tmp/Inkpad/Inkpad-Core/Model/WDCurveFit.m all.tmp/Inkpad/Inkpad-Core/CurveFit
