@@ -2,3 +2,5 @@ debug.txt
 html
 *.tmp
 *.obj
+*.db
+.DS_Store

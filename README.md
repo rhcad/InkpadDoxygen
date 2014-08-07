@@ -2,9 +2,11 @@
 
 This project is used to generate [Inkpad](https://github.com/sprang/Inkpad) documentation with Doxygen.
 
-![dir](https://raw.githubusercontent.com/rhcad/InkpadDoxygen/master/screenshot/dir.png) ![path](https://raw.githubusercontent.com/rhcad/InkpadDoxygen/master/screenshot/path.png)
+![dir](/screenshot/dir.png) ![core](/screenshot/core.png) ![path](/screenshot/path.png)
 
 This project is distributed under the [Mozilla Public License v2.0](http://mozilla.org/MPL/2.0/). Contributors and sponsors are welcome.
+
+Author: [Zhang Yungui](https://github.com/rhcad)
 
 ## Setup Doxygen and GraphViz
 
@@ -22,6 +24,5 @@ This project is distributed under the [Mozilla Public License v2.0](http://mozil
 
 ## Generate documentation
 
-1. `cd' to this directory containing the file of 'cp.sh' or 'build.sh'.
+1. `cd' to this directory containing the file of 'build.sh'.
 2. Type './build.sh' to copy source files and run Doxygen automatically.
-3. Or type './cp.sh' to copy source files from `../Inkpad`. Then run Doxygen wizard, open `./Doxygen/Inkpad.doxyfile`, then click 'Run doxygen'.
